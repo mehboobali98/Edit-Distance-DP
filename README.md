@@ -27,6 +27,8 @@ The time complexity of the dynamic programming solution is: O(N^2)
 
 # Directory Structure
 
-📦Edit-Distance-Dynamic-Programming
+<pre>
+📦Edit-Distance-DP
 ┣ 📜main.cpp
 ┗ 📜README.md
+</pre>
